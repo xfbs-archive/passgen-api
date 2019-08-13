@@ -24,6 +24,11 @@ shared memory?
 https://facil.io?
 libhttp?
 https://cesanta.com/docs/http/server-example.html (mongoose)?
+https://github.com/lpereira/lwan
+https://kore.io
+http://nxweb.org
+http://duda.io
+http://libevent.org (https://github.com/criticalstack/libevhtp)
 
 ## Make it fast
 
