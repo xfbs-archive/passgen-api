@@ -1,8 +1,0 @@
-[package]
-name = "passgen-api"
-version = "0.1.0"
-authors = ["Patrick Elsen <pelsen@xfbs.net>"]
-edition = "2018"
-
-[dependencies]
-rocket = "0.4.2"
