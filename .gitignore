@@ -4,3 +4,4 @@
 passgen-api.so
 assets.h
 cert
+*.pid
